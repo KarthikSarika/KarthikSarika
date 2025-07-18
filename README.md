@@ -9,17 +9,39 @@
 
 ## 🚀 About Me
 
-I'm a passionate AI and Machine Learning enthusiast with a strong foundation in web development and data science. I love building intelligent, user-focused solutions and exploring how AI can drive innovation in real-world applications. With experience in tools like Python, Django, TensorFlow, and Scikit-learn, I've developed smart systems including chatbots, resume scoring apps, and voice assistants.
+I'm a passionate AI and Machine Learning enthusiast with a strong foundation in web development and data science. I love building intelligent, user-focused solutions and exploring how AI can drive innovation in real-world applications. With hands-on experience in Python, Django, TensorFlow, and Scikit-learn, I've built smart systems including chatbots, resume scoring apps, and voice assistants.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, C, Java, SQL, JavaScript  
-- **Web & Frontend:** HTML5, CSS3, React.js, Django  
-- **ML Tools:** Scikit-learn, TensorFlow, Pandas, NumPy  
-- **Databases & Cloud:** MySQL, AWS, Git, Power BI  
-- **Soft Skills:** Leadership, Teamwork, Communication, Time Management  
+- **Languages:**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+- **Web & Frontend:**  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+- **ML Tools:**  
+  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+- **Databases & Cloud:**  
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+- **Soft Skills:**  
+  Leadership, Teamwork, Communication, Time Management
 
 ---
 
@@ -29,10 +51,10 @@ I'm a passionate AI and Machine Learning enthusiast with a strong foundation in 
   Machine learning regression model to predict diamond prices based on features like cut, color, and clarity.
 
 - 🤖 [**NLP-Based Resume Score Calculator**](https://github.com/KarthikSarika/NLP-Based-Relevancy-Ranking-for-CVs-and-Job-Descriptions)  
-  An intelligent system using NLP to score resumes by matching them with job descriptions.
+  Intelligent system using NLP to score resumes by matching them with job descriptions.
 
 - 🗣️ **Python Voice Assistant**  
-  A personal assistant using Python libraries for voice recognition, speech synthesis, and NLP.
+  Personal assistant using Python libraries for voice recognition, speech synthesis, and NLP.
 
 ---
 
@@ -68,5 +90,4 @@ I'm a passionate AI and Machine Learning enthusiast with a strong foundation in 
 
 ### 🔍 Let's Connect & Collaborate!
 
-I'm open to internship opportunities, collaborative projects, and contributing to open source in the fields of AI/ML, web dev, or data science. Let's create something amazing together!
-
+I'm open to internship opportunities, collaborative projects, and contributing to open source in AI/ML, web development, or data science. Let's create something amazing together!
