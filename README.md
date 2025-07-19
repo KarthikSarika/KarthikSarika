@@ -45,19 +45,6 @@ I'm a passionate AI and Machine Learning enthusiast with a strong foundation in 
 
 ---
 
-## 💼 Projects
-
-- 🎯 [**Diamond Price Prediction**](https://github.com/KarthikSarika/Diamond-Price-Prediction-Model)  
-  Machine learning regression model to predict diamond prices based on features like cut, color, and clarity.
-
-- 🤖 [**NLP-Based Resume Score Calculator**](https://github.com/KarthikSarika/NLP-Based-Relevancy-Ranking-for-CVs-and-Job-Descriptions)  
-  Intelligent system using NLP to score resumes by matching them with job descriptions.
-
-- 🗣️ **Python Voice Assistant**  
-  Personal assistant using Python libraries for voice recognition, speech synthesis, and NLP.
-
----
-
 ## 🧠 Internship Experience
 
 - **Product Development Intern @ NIT-AP**  
